@@ -13,7 +13,7 @@ import { parseEther } from "viem";
 
 const CONTRACT_ADDRESS = "0xD8aa2893a6Ec4762B0b0f0456675BE435455B5C7";
 
-const MINT_PRICE = "0.000077";
+const MINT_PRICE = "0.000039";
 const MAX_SUPPLY = 3333;
 const MAX_MINT = 10;
 
