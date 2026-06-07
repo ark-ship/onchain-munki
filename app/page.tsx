@@ -15,7 +15,7 @@ const CONTRACT_ADDRESS = "0xD8aa2893a6Ec4762B0b0f0456675BE435455B5C7";
 
 const MINT_PRICE = "0.000039";
 const MAX_SUPPLY = 3333;
-const MAX_MINT = 10;
+const MAX_MINT = 20;
 
 const PREVIEW_IMAGE_BASE_URI =
   "https://clever-guineafowl-soqcs.lighthouseweb3.xyz/ipfs/bafybeigz4hqgigpnv2uzsknqfw7tw44bqarelcknxscqqd7yetuujgki6i/";
